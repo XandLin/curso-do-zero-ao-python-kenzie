@@ -1,7 +1,7 @@
 {
     "python.pythonPath": "C:\\Users\\pc\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
     "code-runner.executorMap": {
-        "python": "C:\\Users\\pc\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+        "python": "C:\\Users\\pc\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"
     },
     "python.testing.promptToConfigure": false,
     "python.testing.pytestEnabled": false,

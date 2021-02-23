@@ -1,6 +1,5 @@
 
-
-if 2>3:
-      print('e maior')
+if 2 > 3:
+    print('mior')
 else:
-  print('e menor')
+    print('menor')

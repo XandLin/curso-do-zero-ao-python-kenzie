@@ -1,3 +1,3 @@
-variavel=2
+variavel = 2
 print(variavel)
 type(variavel)
