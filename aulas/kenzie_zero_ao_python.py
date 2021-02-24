@@ -24,10 +24,14 @@ if resposta == 'não' or resposta == 'Não':
         print('Que pena acontence \nvai dormir deve melhorar')
 else:
     print('Que ótimo, vai estudar')
-
 '''#exemplo6'''
 print('Dgite sua Data de Nascimento:')
 dia = input('Dia: ')
 mes = input('Mês: ')
 ano = input('Ano: ')
 print('Data de Nascimento: ', dia, '/', mes, '/', ano)
+'''#exemplo7'''
+soma = input('Digite o primeiro numero: ')
+soma1 = input('Digite o segundo numero: ')
+result = len(soma + soma1)
+print('Soma: ', result)
