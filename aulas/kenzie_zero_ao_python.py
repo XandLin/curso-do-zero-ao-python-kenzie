@@ -33,5 +33,5 @@ print('Data de Nascimento: ', dia, '/', mes, '/', ano)
 '''#exemplo7'''
 soma = input('Digite o primeiro numero: ')
 soma1 = input('Digite o segundo numero: ')
-result = len(soma + soma1)
+result = int(soma) + int(soma1)
 print('Soma: ', result)
